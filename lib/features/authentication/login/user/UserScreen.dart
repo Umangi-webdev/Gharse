@@ -22,7 +22,7 @@ class _UserscreenState extends State<Userscreen> {
         child: Column(
           children: [
             // Header Gradient
-            Container(
+            SizedBox(
               width: double.infinity,
               height: 100,
               child: Column(
