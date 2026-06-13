@@ -3,7 +3,6 @@
 GharSe is a **home-cooked food delivery platform** connecting customers with local home chefs (mummies) and delivery partners.  
 Our mission: **bring the taste of ghar ka khana (homemade food) to everyone, anywhere.**  
 
----
 
 ## 🚀 Features  
 
