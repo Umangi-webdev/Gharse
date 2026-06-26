@@ -65,3 +65,7 @@ Our mission: **bring the taste of ghar ka khana (homemade food) to everyone, any
 
 # Coolard Color Pellete
 https://coolors.co/palette/e63946-f1faee-a8dadc-457b9d-1d3557
+
+-------
+
+⭐ If you found this project useful, give it a star!
