@@ -14,7 +14,7 @@ Our mission: **bring the taste of ghar ka khana (homemade food) to everyone, any
 - Secure online payments (UPI, Card, Wallet)  
 - Save addresses & reorder past meals  
 
-### 👩‍🍳 Vendor (Mummy)  
+### 👩‍🍳 Vendor (Mummy,lady)  
 - Easy onboarding with ID/KYC verification  
 - Add / Update Menu with images & pricing  
 - Manage orders (Accept/Reject)  
