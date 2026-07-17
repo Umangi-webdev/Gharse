@@ -7,7 +7,7 @@ Our mission: **bring the taste of ghar ka khana (homemade food) to everyone, any
 ## 🚀 Features  
 
 ### 👤 User (Customer)  
-- Browse nearby home kitchens  
+- Browse nearby home kitchen  
 - Add meals to cart & place orders  
 - Select delivery slot (Breakfast, Lunch, Dinner)  
 - Live order tracking  
